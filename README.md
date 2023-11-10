@@ -1,5 +1,5 @@
 # Prediction Model of COVID-19 infection risk
-This repository contains the training and data preprocessing for the Prediction Model of COVID-19 infection risk using personal mobile location data only.
+This repository contains the training and data preprocessing for the **Prediction of COVID-19 infection risk using personal mobile location data only**.
 
 * _preprocessing1.ipynb_ / _preprocessing2.ipynb_ : Data preprocessing code for model development
 * _modeling.ipynb_ : Model training and evaluation, analytics code
